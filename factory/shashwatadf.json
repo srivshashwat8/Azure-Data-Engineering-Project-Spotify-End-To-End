@@ -1,0 +1,15 @@
+{
+	"name": "shashwatadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc79204d-7598-4250-a69d-b22faefeeb42",
+		"tenantId": "3b8c6c77-8776-4939-9340-87ed9aca56c7"
+	}
+}
